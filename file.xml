@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<weather>
+    <clouds>
+        <all>92</all>
+    </clouds>
+    <cod>200</cod>
+    <name>Shuzenji</name>
+</weather>
